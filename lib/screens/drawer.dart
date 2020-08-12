@@ -10,14 +10,14 @@ class _NavDrawerState extends State<NavDrawer> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      // constraints: new BoxConstraints.expand(
-      //       width: MediaQuery.of(context).size.width -110,
-      //     ),
+      //  constraints: new BoxConstraints.expand(
+      //        width: MediaQuery.of(context).size.width -120,
+      //      ),
       child: Drawer(
         child: Container(
-          // constraints: new BoxConstraints.expand(
-          //   width: MediaQuery.of(context).size.width - 110,
-          // ),
+          constraints: new BoxConstraints.expand(
+            width: MediaQuery.of(context).size.width - 80,
+          ),
           color: Colors.white,
           alignment: Alignment.center,
           child: new ListView(
