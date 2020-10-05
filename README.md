@@ -13,6 +13,19 @@ This news app allows users to browse through news headlines for different categ
 # framework
 ~ Flutter framework
 
+## Screenshots
+
+| Welcome Screen                                                 | Members Overview Screen                                                 | Member Detail Screen                                                 |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="images/Home_page_screenshot.png" width=200 alt="Home Page"> | <img src="images/Screenshot_categories.png" width=200 alt="Category Screen"> | <img src="images/ss.png" width=200 alt="Navigation Drawer"> |
+
+
+
+
+
+
+
+
 <img src="images/ss.png" width="25%"/>
 <img src="images/Screenshot_categories.png" width="25%"/>
 <img src="images/Home_page_screenshot.png" width="25%"/>
@@ -31,7 +44,7 @@ This news app allows users to browse through news headlines for different categ
 <table>
 
   <tr>
-    <td align="center"><a href="https://github.com/sarveshsrv"><img src="https://he-s3.s3.amazonaws.com/media/avatars/sarveshsrv/resized/180/5a3aae9img_20190112_144045ff.jpg" width="100px;" alt=""/><br /><sub><b>Sarvesh Nath Tiwari</b></sub></a><br /><a href="" title="Code">💻 📖 📆 👀</a></td>
+    <td align="center"><a href="https://github.com/sarveshsrv"><img src="https://he-s3.s3.amazonaws.com/media/avatars/sarveshsrv/resized/180/5a3aae9img_20190112_144045ff.jpg" width="100px;" alt=""/><br /><sub><b>Sarvesh Nath Tiwari</b></sub></a><br /><a href="https://github.com/sarveshsrv?tab=repositories" title="Code">💻 📖 📆 👀</a></td>
   </tr>
   
 </table>
