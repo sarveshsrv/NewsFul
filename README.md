@@ -15,20 +15,12 @@ This news app allows users to browse through news headlines for different categ
 
 ## Screenshots
 
-| Welcome Screen                                                 | Members Overview Screen                                                 | Member Detail Screen                                                 |
+  | Home Page                                                    | Category Screen                                                 | Navigation Drawer                                                 |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | <img src="images/Home_page_screenshot.png" width=200 alt="Home Page"> | <img src="images/Screenshot_categories.png" width=200 alt="Category Screen"> | <img src="images/ss.png" width=200 alt="Navigation Drawer"> |
 
 
 
-
-
-
-
-
-<img src="images/ss.png" width="25%"/>
-<img src="images/Screenshot_categories.png" width="25%"/>
-<img src="images/Home_page_screenshot.png" width="25%"/>
 
 
 ## Connect with me on LinkedIn
