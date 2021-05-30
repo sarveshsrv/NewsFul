@@ -3,6 +3,7 @@ import 'screens/HomePage.dart';
 
 void main() => runApp(new MyApp());
 Map<int, Color> color = {
+  
   50: Color.fromRGBO(255, 92, 87, .1),
   100: Color.fromRGBO(255, 92, 87, .2),
   200: Color.fromRGBO(255, 92, 87, .3),
